@@ -53,7 +53,7 @@ learning (DQN, DDQN, D3QN). Developed for the European AI4CI Master's programme.
 ## 🛠️ Tech Stack
 
 **Languages:** Python  
-**LLMs:** HuggingFace Transformers, PEFT/LoRA, TRL, Accelerate, bfloat16, SDPA  
+**LLMs:** HuggingFace Transformers, PEFT/LoRA  
 **ML/DL:** PyTorch, TensorFlow, Scikit-learn  
 **RL:** Gymnasium, DQN, DDQN, D3QN, PPO, World Models  
 **Data:** Pandas, NumPy, large-scale dataset processing  
