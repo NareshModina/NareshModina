@@ -1,7 +1,10 @@
 # Hi, I'm Naresh 👋
+
 **AI/ML Researcher & Engineer** based in Paris, France.
+
 I specialize in **Deep Reinforcement Learning** and **Applied AI for telecom infrastructure** 
 (5G/6G), with hands-on experience in LLM fine-tuning, NLP, and classical ML. I combine research depth with practical engineering — from algorithm design to multi-GPU training pipelines.
+
 ---
 ## 🔬 Research & Work
 - **Applied AI Researcher @ CNAM Paris** — Designing AI frameworks for autonomous anomaly 
@@ -41,11 +44,14 @@ and ML-based anomaly classification.
 `Python` `Pandas` `Open5GS` `Time-series` `Anomaly Detection`
 
 ### 📂 [Teaching — ML/DL/RL Notebooks](https://github.com/NareshModina/teaching)
+
 Course material and experiments covering classical ML, deep learning, and reinforcement 
 learning (DQN, DDQN, D3QN). Developed for the European AI4CI Master's programme.  
 `PyTorch` `TensorFlow` `Scikit-learn` `Gymnasium` `Jupyter`
+
 ---
 ## 🛠️ Tech Stack
+
 **Languages:** Python  
 **LLMs:** HuggingFace Transformers, PEFT/LoRA  
 **ML/DL:** PyTorch, TensorFlow, Scikit-learn  
@@ -53,14 +59,20 @@ learning (DQN, DDQN, D3QN). Developed for the European AI4CI Master's programme.
 **Data:** Pandas, NumPy, large-scale dataset processing  
 **MLOps:** Docker, Git, torchrun (multi-GPU DDP), distributed training  
 **Telecom:** 5G/6G, Open5GS, 3GPP/ETSI standards, network slicing
+
 ---
 ## 📡 Open Source
+
 Led the creation of **[5G3E](https://github.com/cedric-cnam/5G3E-dataset)** — an open-source 
 end-to-end 5G telemetry dataset for training telecom AI models.
+
 ---
 ## 📫 Contact
+
 [LinkedIn](https://linkedin.com/in/nareshmodina) · [Website](http://nareshmodina.com) · modinanaresh@gmail.com
+
 ---
 ## 📄 CV
+
 - [CV — English](cv/CV_Naresh_Modina_en.pdf)
 - [CV — Français](cv/CV_Naresh_Modina_fr.pdf)
