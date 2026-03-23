@@ -1,9 +1,7 @@
 # Hi, I'm Naresh 👋
 **AI/ML Researcher & Engineer** based in Paris, France.
 I specialize in **Deep Reinforcement Learning** and **Applied AI for telecom infrastructure** 
-(5G/6G), with hands-on experience in LLM fine-tuning, NLP, and classical ML. I combine 
-research depth (PhD, patent, IEEE publications) with practical engineering — from algorithm 
-design to multi-GPU training pipelines.
+(5G/6G), with hands-on experience in LLM fine-tuning, NLP, and classical ML. I combine research depth with practical engineering — from algorithm design to multi-GPU training pipelines.
 ---
 ## 🔬 Research & Work
 - **Applied AI Researcher @ CNAM Paris** — Designing AI frameworks for autonomous anomaly 
